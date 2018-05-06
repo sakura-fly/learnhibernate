@@ -1,5 +1,6 @@
 package entity;
 
+
 public class Grade {
     // private int id;
     private int gender;
